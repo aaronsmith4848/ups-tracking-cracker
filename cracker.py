@@ -16,11 +16,11 @@ DESTINATION_COUNTRY = 'United States'
 
 # Type the shipper number and service code below
 # (These are the first eight characters following the 1Z of a tracking number)
-FIRST_EIGHT_OF_TRACKING = '00000000'
+FIRST_EIGHT_OF_TRACKING = 'E10Y1904'
 
 # Type the last four known digits of your tracking number
 # (This can be found by using the UPS 'Track by Reference' feature
-LAST_FOUR_OF_TRACKING = '0000'
+LAST_FOUR_OF_TRACKING = '9896'
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
